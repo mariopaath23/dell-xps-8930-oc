@@ -49,6 +49,7 @@ I've changed the internal WiFi & Bluetooth Card to a compatible Intel WiFi Card 
 - NVIDIA GTX 1060 Discrete GPU (Last working version is 10.13.6 High Sierra)
 - DRM Content over Safari (DRM Content over Chromium & Firefox Powered Browser works just fine)
 - AirDrop, Continuity, Wireless Sidecar, Apple Watch Unlock (Limitations of Intel WiFI Card)
+- HDMI Audio (Will try to fix on next release)
 
 ## ⚠️ Untested
 - iServices (I have no Apple ID Account available atm)
